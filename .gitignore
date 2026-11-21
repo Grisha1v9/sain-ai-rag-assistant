@@ -1,0 +1,15 @@
+api.token
+llm.key
+id_ed25519
+yandex_forms_secret.txt
+dev_data.json
+answer.json
+scripts/
+.env
+__pycache__/
+*.pyc
+.venv/
+
+*.zip
+download_data.py
+.github/

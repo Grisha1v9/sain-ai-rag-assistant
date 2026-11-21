@@ -1,0 +1,7 @@
+fastapi==0.162.6
+uvicorn==0.54.0
+openai
+requests
+rank_bm25
+pydantic
+python-dotenv
