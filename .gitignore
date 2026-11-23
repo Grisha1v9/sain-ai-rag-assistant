@@ -13,3 +13,7 @@ __pycache__/
 *.zip
 download_data.py
 .github/
+local_data.jsonarticles.json
+check_prompt.py
+check_prompt2.py
+local_data.json

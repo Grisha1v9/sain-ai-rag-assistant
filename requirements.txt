@@ -5,3 +5,7 @@ requests
 rank_bm25
 pydantic
 python-dotenv
+langchain-core==0.3.15
+langgraph==0.2.50
+langgraph-checkpoint==2.1.2
+langgraph-sdk==0.1.74
